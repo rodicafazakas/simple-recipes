@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Bean and bacon salad",
+      "image": "",
+      "ingredients": ["250g beans", "1/4 onion", "bacon"],
+      "howto": ""
+    },
+    {
+      "id": "2",
+      "name": "Spaghetti with gorgonzola",
+      "image": "",
+      "ingredients": ["250g spaghetti", "200g gorgonzola", "200ml nata"],
+      "howto": ""
+    },
+    {
+      "id": "3",
+      "name": "Carrot soup",
+      "image": "",
+      "ingredients": ["6 carrots", "1 onion", "2 potatoes"],
+      "howto": ""
+    }
+  ]
+}
