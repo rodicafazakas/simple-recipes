@@ -5,21 +5,40 @@
       "name": "Bean and bacon salad",
       "image": "",
       "ingredients": ["250g beans", "1/4 onion", "bacon"],
-      "howto": ""
+      "howto": "",
+      "category": "Salad"
     },
     {
       "id": "2",
       "name": "Spaghetti with gorgonzola",
       "image": "",
       "ingredients": ["250g spaghetti", "200g gorgonzola", "200ml nata"],
-      "howto": ""
+      "howto": "",
+      "category": "Pasta"
     },
     {
       "id": "3",
       "name": "Carrot soup",
       "image": "",
       "ingredients": ["6 carrots", "1 onion", "2 potatoes"],
-      "howto": ""
+      "howto": "",
+      "category": "Soup"
+    },
+    {
+      "id": "4",
+      "name": "Rice with eggs and corn",
+      "image": "",
+      "ingredients": ["basmati rice", "bacon", "1 egg", "corn", "big red pepper"],
+      "howto": "",
+      "category": "Salad"
+    },
+    {
+      "id": "5",
+      "name": "Macaroni and cheese",
+      "image": "",
+      "ingredients": ["250 g macaroni", "500g cheese", "2 spoons of sugar", "2 spoons of bread crumbs"],
+      "howto": "",
+      "category": "Pasta"
     }
   ]
 }
