@@ -39,6 +39,15 @@
       "ingredients": ["250 g macaroni", "500g cheese", "2 spoons of sugar", "2 spoons of bread crumbs"],
       "howto": "",
       "category": "Pasta"
+    },
+    {
+      "id": "6",
+      "name": "Beans cream",
+      "image": "",
+      "ingredients": ["white beans", "1 small onion", "garlic"],
+      "howto": "",
+      "category": "Salad"
     }
+
   ]
 }
