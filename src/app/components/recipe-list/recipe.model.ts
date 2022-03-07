@@ -9,7 +9,7 @@ export class Recipe {
     this.name =  name;
     this.imagePath = imagePath;
     this.ingredients = ingredients;
-    this. howto = desc;
+    this.howto = desc;
     this.category = category;
   };
 
