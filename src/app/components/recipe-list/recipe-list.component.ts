@@ -13,6 +13,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe("Beans cream", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMUsF6EMRksHQwGYqjrZWohNXUXxBI7fdaQ&usqp=CAU", "", "Boil the beans, smash them and put the fried onion on top", "Salad")
   ];
   constructor() {};
+
   ngOnInit(): void {
 
   }
